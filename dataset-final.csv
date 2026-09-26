@@ -1,0 +1,457 @@
+id_aluno,idade,escola_origem,municipio_residencia,estado_residencia,renda_familiar_mensal,pessoas_domicilio,acesso_internet,trabalha,turno,horas_estudo_semana,frequencia_percentual,nota_media,reprovacoes,data_matricula,situacao,motivo_evasao
+A0275,22,Pública,Maceió,AL,3540.66,6,Sim,Não,Manhã,10.0,86.6,7.4,1,2026-02-25,Ativo,
+A0332,20,Pública,União dos Palmares,AL,1856.41,2,Sim,Não,Tarde,7.4,1.0,6.7,0,2026-03-08,Evadido,Motivos pessoais
+A0339,17,Pública,Marechal Deodoro,AL,2243.6,6,Sim,Sim,Tarde,8.2,20.0,7.5,1,2026-02-20,Ativo,
+A0361,25,Pública,Maceió,AL,2580.41,5,Sim,0,Tarde,6.4,74.2,6.4,2,2026-02-03,Evadido,Conciliação com trabalho
+A0027,20,Pública,Arapiraca,AL,2207.22,2,Sim,Não,Manhã,8.3,85.2,7.4,0,2026-02-18,Ativo,
+A0207,21,Pública,Maceió,AL,3204.28,4,Sim,Sim,Noite,8.0,84.8,6.0,1,2026-03-03,Evadido,
+A0135,21,Pública,União dos Palmares,AL,3054.16,3,Sim,Não,Noite,5.9,100.0,9.2,0,2026-03-06,Ativo,
+A0123,21,Pública,União dos Palmares,AL,5538.33,3,Sim,Sim,Manhã,8.3,64.1,6.8,1,,Ativo,
+A0322,17,Privada,Palmeira dos Índios,AL,1475.13,6,Sim,Não,Noite,6.4,77.1,4.6,2,2026-02-07,Ativo,
+A0399,18,Privada,Rio Largo,AL,2160.42,5,Sim,Sim,Tarde,8.6,75.5,6.2,1,2026-02-14,Evadido,Conciliação com trabalho
+A0026,19,Pública,Rio Largo,AL,3701.01,2,Sim,Sim,Noite,5.0,75.6,7.0,0,2026-02-13,Ativo,
+A0342,18,Privada,Maceió,AL,2831.61,4,Sim,Sim,Noite,4.4,91.3,7.8,0,2026-02-18,Evadido,Problemas de transporte
+A0324,33,Pública,União dos Palmares,AL,3162.59,6,Sim,Não,Noite,0.6,20.0,6.3,0,2026-02-02,Ativo,Problemas de transporte
+A0462,17,Pública,Arapiraca,AL,2724.99,5,Sim,Sim,Noite,0.9,89.4,9.0,1,2026-02-06,Ativo,
+A0277,21,Privada,Maceió,AL,5480.75,5,Não,Não,Manhã,2.8,71.3,6.1,1,2026-02-02,Ativo,
+A0054,20,Pública,Arapiraca,AL,2058.24,3,Sim,Não,Noite,8.3,1.0,8.5,0,2026-02-12,Ativo,
+A0380,21,Pública,Arapiraca,PE,1757.66,5,Sim,Sim,Manhã,5.4,78.7,8.1,2,2026-02-20,Ativo,
+A0051,22,Pública,Maceió,AL,1353.54,2,Sim,Não,Manhã,8.3,97.0,7.2,0,2026-03-03,Ativo,
+A0256,18,Pública,Arapiraca,AL,2156.27,2,Não,Não,Tarde,2.9,79.6,7.4,0,2026-03-01,Evadido,
+A0125,22,Privada,Maceió,AL,6097.06,5,Sim,NAO,Noite,3.3,63.5,7.3,3,2026-02-16,Evadido,Dificuldade acadêmica
+A0077,22,Pública,Maceió,AL,1538.81,3,Sim,Não,Tarde,8.8,85.1,7.0,0,2026-03-01,Ativo,
+A0428,30,Pública,Arapiraca,AL,6218.2,3,Não,Sim,Manhã,0.0,79.6,5.1,1,2026-02-17,Evadido,Conciliação com trabalho
+A0329,17,Pública,Maceió,AL,2748.23,3,Não,Sim,Tarde,11.4,68.8,6.5,1,2026-02-10,Ativo,
+A0416,17,Pública,Maceió,AL,1958.85,5,Sim,Sim,Tarde,10.2,52.3,7.2,2,2026-02-13,Ativo,
+A0193,21,Pública,Palmeira dos Índios,AL,2178.81,4,Sim,Não,Tarde,5.7,81.6,8.0,1,2026-02-17,Ativo,
+A0211,19,Pública,Maceió,AL,2522.93,5,Sim,Não,Noite,10.9,84.0,7.2,0,2026-02-28,Ativo,
+A0106,22,Privada,Maceió,AL,3162.59,2,Sim,Não,Noite,10.9,95.9,7.8,0,2026-02-28,Matriculado,
+A0160,19,Pública,Maceió,AL,1188.14,4,Sim,Não,Noite,11.9,75.0,7.2,0,2026-02-22,Ativo,
+A0001,17,Pública,Maceió,AL,3778.94,3,Sim,Sim,Manhã,11.3,81.3,5.7,2,2026-02-10,Evadido,Dificuldade acadêmica
+A0121,23,Privada,Maceió,AL,2466.37,5,Sim,Não,Tarde,12.6,83.6,8.3,0,2026-03-02,Ativo,
+A0443,18,Privada,Arapiraca,AL,1572.82,2,Sim,Não,Tarde,9.0,77.2,7.8,0,2026-02-14,Ativo,
+A0451,22,Pública,Maceió,AL,2087.01,6,Não,Sim,Noite,10.3,57.8,8.4,2,2026-02-23,Ativo,
+A0326,20,Privada,Rio Largo,AL,10226.43,4,Sim,Não,Noite,10.8,72.8,7.8,2,2026-02-12,Ativo,
+A0173,19,Pública,Maceió,AL,2668.47,4,Sim,Sim,Tarde,13.4,78.1,8.4,1,2026-03-04,Ativo,
+A0311,22,Pública,Maceió,AL,2943.34,2,Sim,Sim,Tarde,5.1,84.9,5.6,2,2026-02-06,Ativo,
+A0138,20,Privada,Maceió,AL,700.0,4,Sim,Não,Manhã,8.7,87.0,6.7,0,2026-02-15,Ativo,
+A0213,19,Pública,Maceió,AL,1890.16,2,Sim, no ,Noite,11.2,78.9,9.1,0,2026-02-10,Ativo,
+A0431,23,Pública,Marechal Deodoro,AL,2953.0,4,Sim,Não,Manhã,8.4,86.0,7.9,0,2026-02-25,Ativo,
+A0097,18,Pública,Maceió,AL,3679.86,4,Sim,Não,Noite,11.1,80.1,7.1,1,2026-02-28,Ativo,
+A0189,18,Pública,Palmeira dos Índios,AL,5603.9,4,Sim,Não,Manhã,6.1,79.6,5.9,1,2026-02-11,Ativo,
+A0191,17,Pública,Maceió,AL,3371.07,3,Não,Sim,Tarde,9.0,79.1,3.8,1,2026-03-01,Evadido,Problemas de transporte
+A0343,26,Privada,Maceió,AL,2798.46,7,Sim,Não,Noite,10.1,87.8,6.7,0,2026-02-05,Ativo,
+A0374,24,Pública,Marechal Deodoro,AL,2612.58,4,Sim,Não,Noite,6.0,82.4,8.2,1,2026-02-26,Ativo,
+A0220,21,Pública,Maceió,AL,1671.48,4,Sim,Não,Manhã,11.7,85.3,7.5,2,2026-03-02,Ativo,
+A0309,26,Privada,Maceió,AL,3071.4,3,Sim,Não,Noite,11.9,78.9,8.2,1,2026-02-14,Ativo,
+A0413,23,Privada,Rio Largo,AL,2937.35,4,Sim,Não,Manhã,12.6,86.2,7.3,0,2026-03-07,Ativo,
+A0406,17,Pública,Maceió,AL,3126.33,5,Sim,Sim,Manhã,12.7,86.9,8.2,0,2026-02-13,Ativo,
+A0087,19,Pública,Arapiraca,AL,1054.18,2,Sim,Não,Noite,5.8,81.6,7.1,1,2026-02-12,Ativo,
+A0145,17,Privada,Maceió,AL,2499.35,4,Sim,Não,Noite,4.9,78.2,6.6,2,2026-02-17,Evadido,Dificuldade acadêmica
+A0470,24,Pública,Maceió,AL,1095.97,6,Sim, no ,Noite,10.8,85.9,5.8,1,2026-02-12,Ativo,
+A0405,20,Pública,Arapiraca,AL,2630.08,6,Sim,Não,Tarde,13.3,79.1,6.9,0,2026-02-13,Ativo,
+A0336,28,Pública,Palmeira dos Índios,AL,2228.12,4,Sim,Não,Tarde,16.0,71.1,8.3,3,2026-02-18,Evadido,Conciliação com trabalho
+A0357,20,Pública,Rio Largo,AL,2106.34,5,Sim,Não,Tarde,11.0,87.5,8.3,1,2026-02-07,Ativo,
+A0126,23,Privada,Rio Largo,AL,1417.85,5,Sim,Não,Noite,3.8,95.5,8.1,0,2026-03-05,Ativo,
+A0111,18,Pública,Rio Largo,AL,8437.05,5,Sim,Não,Manhã,9.3,90.4,7.5,0,2026-02-09,Ativo,
+A0301,23,Pública,Maceió,AL,2027.57,3,Sim,Sim,Noite,6.4,70.5,5.8,3,2026-02-12,Evadido,Conciliação com trabalho
+A0312,22,Pública,Rio Largo,AL,3162.59,3,Sim,Sim,Tarde,7.5,75.8,9.2,1,2026-08-03,Evadido,Dificuldade financeira
+A0356,19,Pública,Palmeira dos Índios,AL,1783.22,4,Sim,Não,Manhã,11.0,78.2,8.5,0,2026-02-06,Ativo,
+A0461,18,Pública,Palmeira dos Índios,AL,10909.64,5,Sim,Não,Manhã,8.0,81.0,6.3,1,2026-02-22,Ativo,
+A0310,24,Pública,Maceió,AL,4489.75,5,Sim,Sim,Noite,6.2,82.4,6.7,0,2026-02-15,Ativo,
+A0321,19,Pública,Maceió,AL,2120.91,4,Sim,Sim,Manhã,10.7,82.6,10.0,1,2026-02-08,Ativo,
+A0063,17,Pública,Maceió,AL,2518.78,4,Sim,Sim,Manhã,4.1,93.1,8.6,0,2026-03-01,Ativo,
+A0365,20,Privada,Arapiraca,AL,4045.39,5,Sim,Não,Noite,5.8,87.7,7.5,0,2026-02-27,Ativo,
+A0358,23,Privada,União dos Palmares,AL,1892.94,2,Sim,Sim,Manhã,12.3,82.9,6.7,0,2026-03-04,Ativo,
+A0147,21,Privada,Palmeira dos Índios,AL,3986.74,4,Sim,Sim,Tarde,11.3,83.0,6.1,2,2026-02-22,Ativo,
+A0458,21,Privada,Maceió,AL,2740.3,5,Não,Sim,Noite,10.9,72.6,5.7,2,2026-02-06,Evadido,Problemas de transporte
+A0006,23,Pública,Rio Largo,AL,1873.04,5,Sim,Não,Noite,0.1,82.2,6.4,0,,Ativo,
+A0434,23,Pública,Arapiraca,AL,4007.49,3,Sim,Sim,Tarde,2.6,84.2,7.5,1,2026-02-04,Ativo,
+A0103,20,Pública,Maceió,AL,5653.45,5,Sim,Não,Noite,10.9,79.2,7.4,0,2026-02-17,Ativo,
+A0464,17,Pública,Maceió,AL,2864.84,4,Sim,Não,Noite,9.7,67.8,8.2,1,2026-02-22,Ativo,
+A0122,19,Privada,Palmeira dos Índios,AL,1556.05,7,Sim,Sim,Noite,9.6,75.0,6.0,2,2026-03-02,Ativo,
+A0182,17,Pública,Maceió,AL,1882.27,18,Não,Não,Noite,9.3,76.6,7.6,1,2026-02-16,Evadido,Motivos pessoais
+A0466,24,Pública,União dos Palmares,AL,2112.63,3,Sim,Não,Noite,4.0,90.7,8.0,1,2026-02-19,Evadido,Dificuldade financeira
+A0355,23,Privada,Palmeira dos Índios,AL,2420.17,3,Sim,Não,Manhã,4.5,85.6,7.1,3,2026-03-09,Ativo,
+A0397,21,Pública,Palmeira dos Índios,AL,1535.78,4,Sim,Não,Manhã,11.6,76.9,7.8,1,2026-02-20,Ativo,
+A0050,23,Pública,Maceió,AL,3162.59,5,Sim,Sim,Noite,4.6,77.7,7.4,0,2026-02-05,Ativo,
+A0031,19,Pública,Arapiraca,AL,2507.64,5,Sim,Não,Noite,5.8,79.3,7.3,0,2026-02-17,Ativo,
+A0262,18,Pública,Arapiraca,AL,3147.42,2,Não,Sim,Noite,10.8,79.8,4.5,3,2026-02-06,Evadido,Motivos pessoais
+A0208,21,Pública,União dos Palmares,AL,2606.33,2,Sim,Não,Tarde,8.2,70.6,7.5,1,2026-02-26,Ativo,
+A0202,24,Pública,Arapiraca,AL,7094.66,5,Não,Não,Noite,11.2,75.1,7.6,1,2026-02-14,Evadido,Dificuldade financeira
+A0417,24,Pública,Maceió,AL,1796.01,2,Sim,Não,Tarde,8.6,0.749,7.8,0,2026-03-03,Ativo,
+A0372,24,Pública,Palmeira dos Índios,AL,3162.59,5,Sim,Não,Manhã,15.1,74.8,8.0,1,2026-02-25,Ativo,
+A0230,22,Pública,Rio Largo,AL,4778.85,4,Sim,Não,Manhã,0.0,74.0,6.0,0,2026-02-03,Ativo,
+A0379,19,Privada,Maceió,AL,4009.51,3,Sim,Não,Noite,6.8,86.8,8.2,0,2026-02-13,Ativo,
+A0279,25,Pública,Rio Largo,AL,7418.93,4,Sim,Sim,Noite,7.7,67.3,6.1,2,2026-02-06,Matriculado,
+A0246,18,Pública,Rio Largo,AL,4388.39,3,Sim,Não,Noite,12.2,74.3,6.0,2,2026-03-05,Evadido,Problemas de transporte
+A0218,20,Pública,Arapiraca,AL,1571.82,3,Sim,Não,Noite,7.0,78.6,7.1,1,2026-03-09,Evadido,Mudança de cidade
+A0113,18,Pública,Marechal Deodoro,AL,3379.42,5,Sim,Não,Tarde,4.0,89.7,6.8,0,2026-02-24,Ativo,
+A0280,25,Pública,Maceió,AL,3897.46,5,Sim,Sim,Noite,8.7,71.3,7.8,0,2026-02-23,Ativo,
+A0093,18,Pública,Maceió,AL,2974.79,6,Sim,Sim,Noite,7.1,85.0,5.2,0,,Ativo,
+A0204,22,Privada,Maceió,AL,1345.28,3,Não,Não,Manhã,1.4,81.3,5.8,1,2026-02-18,Ativo,
+A0330,17,Pública,Maceió,AL,2118.53,3,Sim,Sim,Noite,7.3,85.8,6.7,3,2026-02-03,Evadido,Dificuldade acadêmica
+A0068,17,Pública,Arapiraca,AL,2292.65,6,Sim,Não,Manhã,13.1,79.8,9.4,0,2026-03-03,Ativo,
+A0348,20,Pública,União dos Palmares,AL,2368.15,3,Sim,Não,Manhã,4.5,82.3,7.4,1,2026-03-09,Ativo,
+A0395,17,Pública,Rio Largo,AL,2320.33,5,Não,Sim,Noite,10.6,65.4,-1.0,3,2026-02-06,Ativo,
+A0081,9,Pública,Maceió,AL,1532.49,2,Não,N,Tarde,6.9,78.5,7.5,1,2026-02-04,Ativo,
+A0448,17,Pública,Marechal Deodoro,AL,2779.51,4,Sim,Sim,Manhã,0.0,100.0,6.4,0,2026-02-21,Ativo,
+A0217,24,Pública,Marechal Deodoro,AL,2931.62,5,Não,Não,Tarde,4.2,91.6,7.2,1,2026-02-05,Evadido,Problemas de transporte
+A0179,23,Privada,Maceió,AL,7547.93,5,Sim,Não,Noite,11.2,97.0,6.7,1,2026-03-04,Ativo,
+A0185,20,Pública,Arapiraca,AL,1838.57,4,Sim,Sim,Manhã,7.6,83.9,7.2,0,2026-02-26,Ativo,
+A0347,21,Privada,Maceió,PE,2069.44,4,Sim,Sim,Tarde,4.3,75.5,7.2,2,2026-03-03,Ativo,
+A0433,24,Pública,Maceió,AL,3162.59,2,Sim,Não,Manhã,7.8,91.4,8.0,0,2026-03-04,Ativo,
+A0029,24,Pública,Maceió,AL,1326.9,3,Sim,Sim,Noite,7.1,87.2,7.2,1,2026-02-24,Evadido,Dificuldade acadêmica
+A0110,20,Pública,Maceió,AL,1592.36,5,Sim,Não,Tarde,13.8,79.8,8.7,0,2026-02-15,Ativo,
+A0196,22,Pública,Maceió,AL,2805.03,5,Sim,Sim,Noite,9.5,61.6,6.9,3,2026-03-08,Ativo,Dificuldade financeira
+A0383,24,Pública,Maceió,AL,4045.3,4,Sim,Não,Tarde,9.3,66.5,4.8,2,2026-02-03,Ativo,
+A0270,19,Pública,Arapiraca,AL,2666.28,3,Sim,Não,Noite,13.8,94.8,7.4,0,2026-03-02,Ativo,
+A0209,21,Pública,União dos Palmares,AL,1314.31,5,Sim,Não,Manhã,15.8,87.7,8.1,0,2026-02-22,Ativo,Dificuldade financeira
+A0020,20,Privada,Arapiraca,AL,1242.64,1,Sim,Não,Noite,3.8,91.2,6.9,1,2026-03-03,Ativo,
+A0188,19,Privada,Maceió,AL,3076.91,6,Sim,Sim,Noite,5.7,20.0,7.9,0,2026-02-08,Evadido,Mudança de cidade
+A0446,19,Privada,Maceió,AL,3926.05,5,Sim,Sim,Tarde,7.5,83.3,6.5,2,2026-02-05,Evadido,
+A0083,17,Pública,Maceió,AL,1985.61,4,Sim,Não,Noite,12.2,69.3,6.2,1,2026-03-04,Ativo,
+A0139,24,Pública,Maceió,AL,1512.01,4,Sim,Não,Noite,8.4,84.7,7.2,2,2026-03-05,Evadido,Problemas de transporte
+A0287,27,Pública,Maceió,AL,2806.36,5,Sim,Sim,Manhã,10.9,20.0,7.6,2,2026-02-09,Ativo,
+A0069,17,Privada,Palmeira dos Índios,AL,2242.42,4,Sim,Não,Noite,8.4,71.5,7.1,1,2026-03-01,Evadido,Motivos pessoais
+A0165,26,Privada,Marechal Deodoro,AL,3162.59,2,Sim,Não,Noite,11.1,65.9,8.5,1,2026-02-27,Ativo,
+A0229,19,Pública,Maceió,AL,2322.18,4,Sim,Não,Tarde,12.3,80.3,8.0,0,2026-03-02,Ativo,
+A0095,17,Privada,Arapiraca,AL,3464.55,4,Sim,1,Noite,10.3,77.9,5.0,1,2026-02-09,Ativo,
+A0089,20,Pública,Maceió,AL,4794.21,4,Sim,Sim,Noite,2.4,87.7,8.8,0,2026-02-06,Ativo,
+A0304,17,Pública,Maceió,AL,4815.18,5,Sim,Não,Manhã,4.9,95.8,7.9,0,2026-02-24,Ativo,
+A0257,22,Pública,Maceió,AL,-1000.0,1,Sim,Sim,Noite,8.4,64.2,7.1,1,2026-02-17,Ativo,
+A0429,19,Privada,Marechal Deodoro,AL,3162.59,3,Sim,Não,Manhã,9.4,74.9,7.9,0,2026-02-23,Ativo,
+A0151,27,Pública,União dos Palmares,AL,3654.95,2,Não,Não,Manhã,10.7,79.4,9.0,0,2026-02-11,Ativo,
+A0237,20,Pública,Maceió,AL,5957.89,6,Não,Não,Manhã,5.4,71.2,6.6,1,2026-02-14,Evadido,Motivos pessoais
+A0426,18,Pública,Maceió,AL,5945.78,6,Sim,Não,Manhã,9.2,20.0,7.0,0,2026-03-08,Ativo,
+A0108,24,Pública,Maceió,AL,3386.12,5,Sim,Sim,Tarde,17.4,96.1,7.5,1,2026-02-11,Ativo,
+A0178,19,Pública,Maceió,AL,1437.52,3,Sim,Não,Tarde,13.3,81.8,6.5,0,2026-02-03,Ativo,
+A0366,22,Pública,Maceió,AL,1776.26,3,Sim,Não,Manhã,6.8,65.6,7.3,2,2026-02-18,Evadido,Dificuldade acadêmica
+A0127,26,Privada,Arapiraca,AL,3955.95,4,Sim,Não,Manhã,12.9,74.5,10.0,0,2026-02-14,Ativo,
+A0341,20,Pública,Maceió,AL,9721.65,4,Não,Sim,Manhã,5.5,79.2,3.9,1,2026-02-22,Ativo,
+A0065,21,Privada,Palmeira dos Índios,AL,1418.87,5,Não,Não,Manhã,12.6,94.8,7.5,1,2026-03-05,Ativo,
+A0227,21,Pública,Maceió,AL,1448.25,6,Sim,Não,Manhã,3.9,70.7,7.2,2,2026-02-02,Ativo,
+A0076,17,Pública,Maceió,AL,5733.51,3,Sim,Sim,Manhã,7.7,80.7,7.4,1,,Ativo,
+A0245,20,Pública,Arapiraca,AL,4679.28,4,Sim,Sim,Tarde,6.5,76.0,8.6,1,2026-02-05,Ativo,
+A0120,21,Pública,Maceió,AL,2252.27,4,Sim,Não,Noite,6.2,98.9,7.6,0,2026-02-22,Ativo,
+A0331,17,Pública,Arapiraca,AL,6329.31,3,Sim,Não,Manhã,9.5,79.0,6.6,2,2026-02-14,Ativo,Dificuldade acadêmica
+A0438,21,Pública,Arapiraca,AL,1999.2,6,Não,Sim,Manhã,11.5,77.3,6.7,0,2026-03-02,Ativo,
+A0090,17,Pública,União dos Palmares,AL,3685.06,5,Sim,Sim,Manhã,4.5,92.2,5.9,0,2026-03-07,Ativo,
+A0241,21,Privada,União dos Palmares,AL,2665.67,5,Sim,Sim,Tarde,7.4,69.1,7.3,0,2026-02-07,Ativo,
+A0258,17,Privada,Maceió,AL,5099.12,3,Sim,Não,Noite,5.3,69.3,6.2,1,2026-02-16,Ativo,
+A0013,19,Pública,Maceió,AL,1250.64,2,Sim,Não,Manhã,8.7,80.8,5.3,2,2026-02-23,Evadido,Problemas de transporte
+A0169,20,Pública,Arapiraca,AL,3162.59,2,Sim,Não,Noite,7.4,93.5,6.4,2,2026-03-03,Ativo,
+A0255,22,Pública,Maceió,AL,4275.65,3,Sim,Não,Manhã,11.8,100.0,6.4,1,2026-03-05,Ativo,
+A0298,19,Pública,Palmeira dos Índios,AL,1325.93,4,Sim,Não,Noite,11.4,65.8,4.6,3,2026-02-18,Evadido,Conciliação com trabalho
+A0415,17,Pública,Marechal Deodoro,AL,2177.28,2,Sim,Não,Noite,5.9,77.1,6.1,2,2026-02-04,Ativo,
+A0176,22,Pública,Maceió,AL,2302.6,5,Sim,Não,Tarde,6.3,100.0,8.7,0,2026-02-13,Ativo,
+A0271,23,Pública,Marechal Deodoro,AL,4722.75,3,Não,Não,Tarde,6.1,86.0,6.9,0,2026-02-19,Ativo,
+A0373,22,Pública,Rio Largo,AL,10923.59,6,Sim,Não,Manhã,7.8,20.0,6.1,2,2026-02-05,Ativo,
+A0295,26,Pública,Maceió,AL,1925.18,5,Sim,S,Tarde,7.2,81.4,6.5,2,2026-02-21,Ativo,
+A0364,19,Pública,Maceió,AL,5113.48,4,Sim,Não,Noite,8.8,81.9,6.0,1,2026-02-04,Ativo,
+A0033,22,Privada,Maceió,AL,3370.6,5,Não,1,Manhã,9.2,64.5,7.8,2,2026-02-27,Ativo,
+A0201,21,Pública,Palmeira dos Índios,PE,3162.59,4,Sim,Sim,Tarde,11.3,64.3,6.0,3,2026-03-03,Evadido,Mudança de cidade
+A0282,23,Pública,Palmeira dos Índios,AL,6630.01,3,Sim,Sim,Noite,10.6,86.7,6.8,1,2026-03-03,Ativo,Problemas de transporte
+A0291,18,Privada,Maceió,AL,6919.63,3,Sim,Não,Manhã,3.1,20.0,8.8,0,2026-02-12,Ativo,
+A0439,28,Pública,Arapiraca,AL,1052.36,5,Não,Sim,Tarde,10.2,74.8,5.8,2,2026-02-10,Matriculado,
+A0058,12,Pública,Maceió,AL,700.0,5,Sim,Sim,Manhã,8.4,77.5,9.0,0,2026-02-17,Ativo,
+A0088,17,Pública,Maceió,AL,3327.06,5,Sim,Não,Manhã,7.9,93.6,6.3,1,2026-03-01,Ativo,
+A0467,17,Privada,Rio Largo,AL,2863.24,3,Sim,Não,Tarde,7.5,92.6,7.8,2,2026-02-18,Evadido,
+A0410,20,Pública,Maceió,AL,3162.59,5,Não,Não,Manhã,8.1,84.9,8.2,0,2026-02-03,Ativo,
+A0249,23,Privada,Rio Largo,AL,3098.17,2,Sim,Não,Noite,9.8,20.0,7.6,0,2026-02-09,Ativo,
+A0396,21,Pública,Arapiraca,AL,3972.72,4,Não,Não,Manhã,16.4,76.3,7.6,1,2026-02-03,Ativo,
+A0318,21,Pública,Maceió,AL,4293.25,4,Sim,Não,Noite,9.6,0.759,7.3,0,2026-03-05,Ativo,
+A0186,21,Privada,Arapiraca,AL,3244.52,6,Sim,Sim,Manhã,11.4,50.2,5.5,3,2026-02-09,Evadido,Conciliação com trabalho
+A0100,20,Pública,União dos Palmares,AL,2742.97,5,Sim,Não,Noite,5.8,0.851,6.6,0,2026-02-24,Evadido,Problemas de transporte
+A0371,19,Pública,Rio Largo,AL,4145.58,5,Sim,Não,Tarde,9.0,96.4,9.0,0,2026-02-07,Ativo,
+A0353,25,Pública,União dos Palmares,AL,2715.2,5,Sim,Sim,Manhã,12.8,99.1,4.6,-2,2026-02-23,Ativo,
+A0039,21,Pública,Marechal Deodoro,AL,2392.43,4,Sim,Não,Manhã,16.4,0.88,7.4,1,2026-02-14,Ativo,
+A0074,18,Pública,Marechal Deodoro,AL,3403.73,2,Sim,Não,Noite,10.3,100.0,9.9,0,,Evadido,Conciliação com trabalho
+A0320,18,Pública,Maceió,AL,3162.59,2,Sim,Sim,Noite,11.8,73.7,7.1,1,2026-02-20,Ativo,
+A0105,18,Pública,Maceió,AL,3162.59,5,Sim,Não,Noite,9.7,67.1,6.0,2,2026-02-25,Ativo,Dificuldade financeira
+A0411,26,Pública,Maceió,AL,2721.26,5,Sim,Sim,Tarde,9.5,0.973,9.4,0,2026-02-21,Ativo,
+A0363,19,Privada,Arapiraca,AL,2533.29,3,Sim,Não,Manhã,7.4,20.0,8.0,1,2026-03-04,Ativo,
+A0385,17,Pública,Maceió,AL,3162.59,4,Sim,Sim,Manhã,8.4,79.5,5.3,1,2026-03-05,Evadido,
+A0010,21,Privada,União dos Palmares,AL,3495.01,4,Sim,Não,Tarde,13.1,80.2,7.5,1,2026-02-09,Ativo,
+A0452,21,Pública,Rio Largo,AL,9167.27,3,Sim,Não,Tarde,6.7,82.4,8.0,1,2026-02-18,Ativo,
+A0194,22,Privada,Arapiraca,AL,1398.12,4,Sim,Sim,Manhã,8.7,85.0,6.6,2,2026-02-20,Ativo,
+A0141,19,Privada,Palmeira dos Índios,AL,2891.84,5,Sim,Não,Tarde,10.0,90.0,8.9,1,2026-02-17,Ativo,
+A0210,20,Pública,Maceió,AL,1944.3,3,Sim,Não,Tarde,0.7,70.9,7.0,0,2026-03-08,Evadido,Dificuldade financeira
+A0456,19,Pública,Palmeira dos Índios,AL,1871.15,1,Sim,Não,Noite,0.0,83.9,8.5,0,2026-02-12,Ativo,
+A0398,21,Pública,União dos Palmares,AL,3431.01,6,Sim,Não,Manhã,12.7,80.6,6.9,2,2026-03-01,Ativo,
+A0378,21,Pública,Marechal Deodoro,AL,2024.72,3,Sim,Não,Tarde,6.4,80.8,6.1,1,2026-02-27,Ativo,
+A0300,23,Pública,Maceió,AL,3162.59,6,Sim,Sim,Noite,9.5,95.2,7.5,0,2026-02-28,Ativo,
+A0315,18,Privada,União dos Palmares,PE,2197.0,4,Sim,Sim,Noite,3.6,75.9,6.7,1,2026-03-05,Evadido,Dificuldade acadêmica
+A0419,18,Privada,União dos Palmares,AL,1276.16,4,Sim,Não,Manhã,7.1,87.6,6.7,1,2026-03-08,Ativo,
+A0142,21,Pública,Rio Largo,AL,2011.8,4,Sim,Não,Tarde,10.6,82.7,7.0,0,2026-02-20,Ativo,
+A0252,22,Pública,Rio Largo,AL,2120.62,5,Sim,Não,Manhã,11.2,80.0,5.5,1,2026-02-07,Ativo,
+A0441,21,Privada,Maceió,AL,2764.91,3,Sim,Não,Tarde,9.5,78.7,6.5,0,2026-02-18,Ativo,
+A0424,18,Pública,Maceió,AL,2641.61,5,Sim,Sim,Noite,1.3,82.5,6.0,1,2026-02-22,Ativo,
+A0018,27,Pública,Maceió,AL,3604.32,3,Sim,Sim,Noite,5.7,0.843,7.2,3,2026-02-12,Evadido,Problemas de transporte
+A0043,20,Pública,Palmeira dos Índios,AL,3024.78,2,Sim,Sim,Noite,1.5,82.5,5.5,2,2026-02-25,Ativo,
+A0283,17,Pública,União dos Palmares,AL,4978.35,5,Não,Não,Noite,5.4,90.9,7.2,0,2026-02-10,Ativo,
+A0354,22,Privada,Maceió,AL,8051.59,4,Sim,Sim,Noite,8.5,60.8,7.7,1,2026-02-20,Evadido,Mudança de cidade
+A0442,22,Privada,Maceió,AL,4820.67,3,Sim,Não,Tarde,12.8,70.2,8.9,1,2026-03-05,Evadido,Dificuldade acadêmica
+A0468,18,Privada,Maceió,AL,3162.59,5,Sim,Não,Noite,15.4,82.0,8.2,0,2026-03-04,Ativo,
+A0214,18,Pública,Rio Largo,AL,1441.2,3,Sim,Sim,Tarde,1.0,67.6,5.9,3,2026-02-07,Evadido,Motivos pessoais
+A0333,21,Pública,União dos Palmares,AL,706.49,3,Sim,Não,Noite,12.0,79.9,7.7,1,2026-02-09,Ativo,
+A0116,21,Pública,Maceió,AL,1606.73,3,Sim,Não,Manhã,13.4,94.6,6.7,2,2026-02-07,Evadido,Problemas de transporte
+A0159,25,Pública,Palmeira dos Índios,AL,2333.64,5,Sim,Sim,Noite,2.7,74.6,4.9,2,2026-02-02,Ativo,
+A0274,17,Pública,Marechal Deodoro,AL,3006.94,5,Não,Não,Noite,16.4,20.0,9.4,1,2026-02-12,Ativo,
+A0102,20,Pública,Arapiraca,AL,4745.66,4,Sim,Não,Tarde,5.9,89.8,7.5,2,2026-03-06,Ativo,
+A0198,26,Pública,Palmeira dos Índios,AL,4581.52,3,Sim,Sim,Manhã,15.5,59.3,8.2,1,2026-05-13,Ativo,
+A0025,22,Pública,Maceió,AL,3094.67,2,Sim,Sim,Tarde,3.4,67.7,6.1,1,2026-02-19,Evadido,
+A0072,20,Privada,União dos Palmares,AL,3664.33,2,Sim,Sim,Manhã,5.2,83.8,5.6,2,2026-02-08,Evadido,
+A0075,18,Pública,Arapiraca,AL,7153.09,3,Sim,Não,Tarde,10.7,78.1,7.9,0,2026-03-03,Ativo,
+A0306,21,Privada,Marechal Deodoro,AL,2564.47,4,Sim,Sim,Noite,12.6,20.0,7.2,0,2026-02-18,Ativo,
+A0162,17,Pública,Maceió,AL,1650.34,3,Sim,Não,Noite,11.5,77.7,6.5,1,2026-03-04,Evadido,Problemas de transporte
+A0376,26,Pública,Maceió,AL,846.1,5,Não,sim,Noite,10.1,0.808,6.0,1,2026-02-06,Ativo,
+A0389,19,Pública,Arapiraca,AL,3028.42,1,Sim,Não,Noite,11.3,70.5,9.2,0,2026-02-28,Ativo,
+A0215,21,Pública,Marechal Deodoro,AL,1972.13,4,Sim,Não,Noite,8.4,91.2,7.0,20,2026-02-12,Ativo,
+A0205,23,Pública,Maceió,AL,-250.0,4,Sim,Sim,Manhã,8.4,87.4,6.2,1,2026-02-06,Ativo,
+A0377,17,Pública,Maceió,AL,4616.59,4,Sim,Não,Noite,10.4,20.0,7.2,1,2026-02-24,Evadido,Dificuldade acadêmica
+A0231,22,Pública,Palmeira dos Índios,AL,8784.29,6,Sim,Não,Tarde,10.9,74.8,8.1,2,2026-02-26,Ativo,
+A0040,21,Privada,Arapiraca,AL,5622.69,3,Sim,Não,Noite,14.6,82.4,6.2,0,2026-02-28,Ativo,
+A0045,21,Privada,Maceió,AL,3162.59,7,Sim,Não,Tarde,7.8,80.1,6.9,1,2026-02-07,Evadido,Conciliação com trabalho
+A0240,21,Pública,Arapiraca,AL,2576.83,3,Sim,Sim,Tarde,5.5,92.7,7.2,1,2026-03-03,Evadido,Conciliação com trabalho
+A0263,19,Privada,Arapiraca,AL,3777.99,5,Sim,Não,Noite,12.9,92.7,7.6,0,2026-02-22,Ativo,
+A0132,17,Pública,Maceió,AL,3926.01,6,Sim,Não,Noite,8.4,84.2,8.6,0,2026-02-18,Ativo,
+A0062,17,Pública,Maceió,AL,1613.66,5,Sim,Não,Tarde,11.0,81.7,8.1,2,2026-02-14,Ativo,
+A0053,22,Pública,Marechal Deodoro,AL,8578.46,4,Sim,Não,Noite,15.5,72.5,7.5,3,2026-02-27,Evadido,Dificuldade financeira
+A0052,17,Pública,Maceió,AL,1805.35,2,Sim,Não,Noite,8.9,78.4,6.9,1,2026-03-02,Ativo,
+A0469,20,Pública,Maceió,AL,4768.26,4,Sim,Não,Manhã,9.1,20.0,5.6,1,2026-02-06,Ativo,
+A0216,25,Privada,Maceió,AL,1267.97,5,Sim,Sim,Manhã,11.9,92.6,7.0,1,2026-03-04,Evadido,Motivos pessoais
+A0177,21,Pública,Maceió,AL,2276.81,4,Não,Não,Manhã,13.6,78.0,7.3,1,2026-02-08,Ativo,
+A0465,17,Pública,Marechal Deodoro,AL,1294.16,3,Sim,0,Noite,10.0,78.3,7.2,0,2026-02-27,Ativo,
+A0243,24,Pública,Maceió,AL,3145.52,2,Sim,Não,Manhã,7.6,88.5,6.6,2,2026-02-26,Ativo,
+A0408,22,Pública,Rio Largo,AL,2777.11,3,Sim,Não,Noite,6.2,94.1,7.3,0,2026-02-09,Evadido,Motivos pessoais
+A0224,22,Pública,Maceió,AL,2083.04,4,Sim,Sim,Noite,4.9,0.724,6.4,1,2026-03-09,Evadido,Mudança de cidade
+A0444,23,Privada,Arapiraca,AL,2910.66,4,Sim,Não,Manhã,10.5,69.2,7.5,2,,Ativo,
+A0292,26,Pública,Rio Largo,AL,2663.53,5,Não,Não,Noite,5.3,77.5,7.0,2,2026-02-03,Evadido,Motivos pessoais
+A0146,25,Pública,Maceió,AL,3304.13,3,Sim,Sim,Manhã,2.4,88.3,8.2,1,2026-02-02,Evadido,Dificuldade financeira
+A0167,17,Privada,Arapiraca,AL,19872.61,4,Sim,SIM,Noite,6.5,81.2,1.1,1,2026-03-02,Ativo,
+A0422,17,Privada,Maceió,AL,2302.72,3,Não,Não,Tarde,7.8,78.0,7.3,1,2026-03-01,Ativo,
+A0073,23,Pública,Palmeira dos Índios,AL,2477.58,4,Sim,Não,Tarde,8.6,86.7,6.7,1,2026-02-08,Ativo,
+A0316,22,Pública,Palmeira dos Índios,AL,3568.31,5,Sim,Não,Manhã,7.7,20.0,6.0,1,2026-02-09,Evadido,Mudança de cidade
+A0423,24,Pública,Maceió,AL,4654.36,5,Sim,Não,Manhã,8.8,78.1,7.3,1,2026-02-05,Ativo,
+A0244,24,Pública,Rio Largo,AL,3162.59,5,Sim,Sim,Noite,4.2,70.4,7.0,1,2026-02-10,Ativo,
+A0035,17,Pública,Arapiraca,AL,700.0,6,Sim,1,Tarde,8.4,79.3,6.4,2,2026-02-04,Evadido,Problemas de transporte
+A0370,17,Privada,União dos Palmares,AL,4473.36,4,Sim,Não,Noite,8.3,80.8,6.9,2,2026-02-20,Ativo,
+A0032,25,Pública,Arapiraca,AL,3769.22,4,Sim,Sim,Tarde,7.1,69.2,7.4,1,2026-03-02,Ativo,
+A0346,26,Pública,Maceió,AL,2716.5,4,Sim,Sim,Noite,11.1,80.5,7.6,1,2026-03-04,Ativo,Dificuldade financeira
+A0454,18,Pública,Arapiraca,AL,3162.59,5,Sim,Não,Manhã,10.5,80.1,6.8,0,,Ativo,
+A0017,21,Pública,Maceió,AL,1985.21,5,Sim,Não,Noite,11.3,85.5,6.5,2,2026-02-17,Evadido,Dificuldade financeira
+A0057,17,Pública,Maceió,AL,700.0,4,Sim,Não,Manhã,15.9,80.6,7.3,2,2026-02-25,Ativo,
+A0407,21,Pública,Arapiraca,AL,1312.35,5,Sim,Não,Manhã,7.7,89.8,7.1,2,2026-02-12,Ativo,
+A0335,26,Pública,Rio Largo,AL,2970.85,3,Sim,Não,Noite,7.1,79.2,5.2,0,2026-03-02,Ativo,
+A0119,18,Privada,União dos Palmares,AL,3931.86,3,Sim,Não,Tarde,9.1,84.1,7.9,1,2026-02-05,Ativo,
+A0384,17,Pública,Maceió,AL,2321.17,4,Sim,Não,Manhã,7.5,85.0,7.2,1,2026-02-21,Ativo,
+A0344,21,Privada,Arapiraca,AL,1963.33,2,Sim,Não,Tarde,14.6,71.7,6.9,1,2026-02-03,Ativo,
+A0156,21,Pública,Rio Largo,AL,3549.72,6,Sim,Não,Noite,5.3,60.8,6.9,2,2026-02-22,Evadido,Motivos pessoais
+A0352,17,Privada,Maceió,AL,3015.65,6,Sim,Sim,Noite,0.0,69.8,8.3,2,2026-02-12,Ativo,
+A0388,19,Privada,Arapiraca,PE,5351.36,3,Sim,Não,Manhã,9.7,93.8,7.5,0,2026-02-10,Ativo,
+A0420,23,Pública,Maceió,AL,1628.67,2,Sim,Não,Noite,10.9,86.5,7.2,1,2026-03-07,Ativo,
+A0166,17,Pública,Maceió,AL,6028.95,6,Sim,Não,Manhã,10.5,20.0,8.2,0,2026-02-05,Ativo,
+A0092,24,Pública,Maceió,AL,2329.0,2,Sim,Sim,Tarde,8.4,90.8,7.2,0,2026-03-07,Ativo,
+A0308,21,Pública,Maceió,AL,1279.94,3,Sim,Não,Manhã,7.9,68.7,6.7,2,2026-02-25,Ativo,
+A0175,17,Privada,Maceió,AL,1923.1,3,Sim,Não,Noite,4.1,90.3,6.3,1,,Ativo,
+A0037,23,Pública,Maceió,AL,3948.71,3,Sim,Não,Manhã,9.7,83.2,7.2,0,2026-02-17,Ativo,
+A0360,22,Pública,Marechal Deodoro,AL,1932.11,1,Sim,Sim,Tarde,6.5,67.8,7.2,2,2026-02-15,Ativo,
+A0313,20,Pública,Palmeira dos Índios,AL,1933.08,5,Sim,Não,Manhã,13.8,80.7,7.8,2,2026-02-07,Ativo,
+A0327,19,Privada,Maceió,AL,2656.3,6,Sim,Não,Noite,7.9,90.8,5.4,0,2026-03-03,Ativo,
+A0226,21,Pública,Maceió,AL,1394.75,4,Sim,Não,Manhã,8.5,90.8,8.1,0,2026-02-10,Ativo,
+A0359,25,Pública,Maceió,AL,3283.09,2,Sim,Não,Manhã,6.8,93.7,7.8,0,2026-02-09,Ativo,
+A0247,22,Privada,Maceió,AL,5148.96,2,Sim,Não,Noite,13.7,84.1,8.1,2,2026-02-22,Ativo,
+A0112,17,Privada,Arapiraca,AL,4778.77,3,Sim,Não,Manhã,7.5,72.1,5.7,3,2026-02-12,Evadido,Dificuldade acadêmica
+A0430,19,Pública,Marechal Deodoro,AL,-500.0,4,Sim,Sim,Manhã,6.1,80.2,7.8,0,2026-02-26,Ativo,
+A0463,19,Pública,Arapiraca,AL,2466.76,2,Não,Não,Tarde,17.6,83.4,8.9,0,2026-02-20,Ativo,
+A0099,19,Pública,Arapiraca,AL,3791.94,4,Sim,Não,Manhã,7.1,85.8,7.0,1,2026-02-23,Ativo,
+A0418,19,Privada,União dos Palmares,AL,2523.87,2,Não,Não,Noite,7.5,100.0,6.5,2,2026-02-24,Ativo,
+A0021,19,Pública,Maceió,PE,4789.96,3,Sim,Sim,Tarde,5.4,61.8,6.7,2,2026-03-06,Evadido,Problemas de transporte
+A0459,19,Privada,Maceió,AL,859.91,5,Sim,Sim,Noite,7.7,78.7,5.4,3,2026-02-15,Ativo,
+A0234,19,Privada,Palmeira dos Índios,PE,914.58,5,Sim,Não,Manhã,4.0,86.8,6.3,0,2026-02-14,Ativo,
+A0153,26,Pública,União dos Palmares,AL,2056.76,4,Não,Sim,Noite,5.5,77.9,5.6,3,2026-03-09,Ativo,
+A0253,27,Pública,Marechal Deodoro,AL,6458.11,4,Sim,Não,Tarde,2.9,88.3,7.1,0,2026-02-27,Ativo,
+A0143,18,Pública,União dos Palmares,AL,1647.31,5,Sim,Não,Noite,12.1,86.6,7.1,0,2026-02-06,Ativo,
+A0016,25,Pública,Palmeira dos Índios,AL,3162.59,3,Sim,Não,Manhã,12.2,88.5,6.8,0,2026-02-25,Ativo,
+A0273,23,Pública,Palmeira dos Índios,AL,2762.14,3,Sim,Não,Noite,9.6,93.0,7.2,3,2026-02-16,Ativo,
+A0457,22,Privada,Maceió,AL,7125.7,4,Sim,Não,Manhã,5.5,59.7,9.7,2,2026-02-11,Ativo,
+A0404,17,Pública,Maceió,AL,930.29,6,Sim,Não,Tarde,5.7,71.5,6.2,2,2026-03-01,Ativo,
+A0061,18,Privada,Arapiraca,AL,2207.37,5,Sim,Não,Noite,10.2,79.1,7.1,1,2026-02-13,Ativo,
+A0030,25,Pública,Maceió,AL,3731.0,1,Sim,Sim,Manhã,8.4,65.7,6.2,3,2026-02-20,Evadido,Problemas de transporte
+A0453,21,Pública,Maceió,AL,3737.58,3,Sim,Não,Noite,1.8,85.0,4.9,1,2026-03-09,Ativo,
+A0134,24,Pública,Rio Largo,AL,3162.59,5,Sim,Não,Noite,11.5,76.6,5.7,2,2026-02-20,Ativo,
+A0056,22,Pública,Arapiraca,AL,2597.64,6,Sim,Sim,Noite,4.2,10.0,6.1,2,2026-03-04,Ativo,
+A0225,20,Privada,Arapiraca,AL,3162.59,5,Não,Não,Noite,13.0,76.2,8.5,1,2026-02-05,Ativo,
+A0009,17,Pública,Maceió,AL,3950.04,5,Sim,Sim,Noite,6.9,71.5,6.2,1,2026-02-04,Ativo,
+A0015,17,Pública,Arapiraca,AL,7969.04,5,Sim,Não,Manhã,7.8,82.4,6.4,0,2026-02-14,Ativo,
+A0432,17,Privada,União dos Palmares,AL,1106.85,8,Sim,Não,Noite,11.2,77.2,6.8,1,2026-02-20,Ativo,
+A0250,18,Privada,Arapiraca,AL,700.0,3,Não,Sim,Noite,13.0,76.3,7.2,2,2026-03-04,Ativo,
+A0235,26,Pública,Maceió,AL,5504.59,5,Sim,S,Noite,8.6,74.6,7.3,1,2026-02-07,Ativo,
+A0272,20,Pública,Maceió,AL,4300.16,5,Sim,Não,Manhã,11.7,80.9,8.6,1,2026-03-08,Ativo,
+A0236,20,Pública,Maceió,AL,3446.82,4,Sim,Sim,Manhã,7.8,71.5,6.5,2,2026-02-10,Evadido,Dificuldade acadêmica
+A0296,23,Pública,Arapiraca,AL,3873.94,5,Sim,Não,Tarde,8.5,78.7,5.6,1,2026-02-20,Evadido,Problemas de transporte
+A0381,17,Pública,Maceió,AL,1872.62,6,Sim,Não,Tarde,8.4,84.3,5.6,2,2026-02-23,Ativo,
+A0155,20,Pública,Marechal Deodoro,AL,7202.32,4,Sim,Sim,Noite,12.5,80.7,8.7,0,2026-02-20,Ativo,
+A0071,20,Pública,Palmeira dos Índios,AL,2908.12,4,Sim,Não,Noite,12.7,79.4,6.8,1,2026-02-11,Evadido,Dificuldade financeira
+A0242,23,Pública,Maceió,AL,754.4,2,Sim,Não,Manhã,9.5,84.7,7.9,0,2026-02-18,Evadido,Motivos pessoais
+A0350,17,Privada,Rio Largo,AL,2539.23,4,Sim,Não,Noite,6.0,93.0,8.4,1,2026-02-14,Ativo,
+A0047,23,Privada,Maceió,AL,3154.16,5,Não,Não,Manhã,8.0,93.1,6.7,1,2026-03-03,Ativo,
+A0197,19,Pública,Arapiraca,AL,2208.33,1,Sim,Sim,Noite,2.7,76.3,8.5,1,2026-02-08,Ativo,
+A0096,17,Privada,Maceió,AL,7247.47,1,Sim,Não,Manhã,8.7,81.1,7.0,0,2026-02-08,Ativo,
+A0199,22,Privada,Arapiraca,AL,1586.59,2,Sim,Não,Manhã,16.1,100.0,6.4,0,2026-02-12,Ativo,
+A0055,23,Privada,Arapiraca,AL,2029.2,5,Sim,Sim,Noite,7.1,87.6,6.5,1,2026-02-17,Ativo,
+A0390,21,Pública,Arapiraca,AL,3040.52,5,Sim,Sim,Manhã,9.2,82.6,6.9,0,2026-02-17,Ativo,
+A0219,23,Privada,Arapiraca,AL,1958.2,6,Sim,Sim,Noite,8.7,69.3,6.5,2,2026-02-04,Evadido,Mudança de cidade
+A0168,23,Pública,Rio Largo,AL,2999.71,4,Sim,Sim,Noite,9.2,86.0,7.3,2,2026-03-02,Ativo,
+A0022,20,Pública,Arapiraca,AL,2444.2,4,Sim,Não,Manhã,11.5,69.7,6.3,0,2026-03-03,Matriculado,
+A0066,17,Privada,União dos Palmares,AL,1353.77,0,Sim,Não,Noite,8.6,82.8,6.9,1,2026-02-27,Evadido,Conciliação com trabalho
+A0206,24,Privada,Maceió,AL,8489.07,3,Sim,Sim,Manhã,3.9,96.5,6.7,0,,Ativo,
+A0059,17,Pública,Maceió,AL,3162.59,5,Sim,Não,Tarde,5.9,96.1,7.3,0,2026-02-19,Evadido,Dificuldade financeira
+A0367,18,Pública,União dos Palmares,AL,4722.8,4,Sim,Não,Manhã,6.6,83.3,7.4,0,2026-02-03,Evadido,Motivos pessoais
+A0014,25,Pública,Rio Largo,AL,2661.21,5,Sim,Sim,Manhã,5.0,76.6,6.9,0,2026-02-15,Ativo,
+A0041,26,Pública,Maceió,AL,1260.37,6,Sim,Não,Manhã,6.8,20.0,8.0,0,2026-02-11,Ativo,
+A0387,17,Pública,Maceió,AL,3713.4,5,Sim,Não,Noite,6.4,89.9,5.4,1,2026-02-17,Ativo,
+A0345,26,Pública,Maceió,AL,1337.14,6,Sim,Não,Noite,3.4,93.7,6.6,1,2026-02-28,Evadido,Dificuldade acadêmica
+A0440,23,Pública,União dos Palmares,AL,4640.65,4,Sim,sim,Tarde,4.8,75.4,6.2,1,2026-02-18,Ativo,
+A0238,20,Pública,Rio Largo,AL,3010.95,2,Sim,Não,Tarde,13.7,96.7,9.5,0,2026-02-10,Ativo,
+A0181,20,Privada,Maceió,AL,3602.65,2,Sim,Sim,Manhã,8.2,76.0,6.7,2,2026-02-19,Ativo,
+A0337,20,Privada,Maceió,AL,1395.79,5,Sim,Não,Noite,9.5,72.3,8.1,0,2026-03-01,Ativo,
+A0007,18,Pública,Arapiraca,AL,6205.41,4,Não,Não,Manhã,11.6,97.8,5.8,2,2026-02-05,Ativo,
+A0392,22,Privada,Maceió,AL,1870.51,5,Sim,Sim,Tarde,4.1,84.8,5.4,2,2026-02-18,Ativo,Dificuldade financeira
+A0349,17,Privada,Palmeira dos Índios,AL,6723.8,3,Sim,Não,Noite,11.2,89.1,8.4,0,2026-02-09,Evadido,Conciliação com trabalho
+A0130,17,Pública,União dos Palmares,AL,6508.22,2,Sim,Não,Manhã,6.3,89.2,6.3,1,2026-03-08,Ativo,
+A0254,28,Pública,Maceió,AL,3154.4,1,Sim,Sim,Manhã,3.3,90.7,6.0,0,2026-03-05,Ativo,
+A0170,24,Pública,Maceió,AL,5113.34,4,Sim,Não,Manhã,15.8,73.7,7.8,1,2026-02-22,Ativo,
+A0401,25,Privada,Maceió,AL,2895.65,4,Sim,Sim,Manhã,2.8,66.0,6.6,1,2026-03-01,Evadido,Problemas de transporte
+A0070,17,Privada,Palmeira dos Índios,AL,5883.02,4,Sim,Não,Manhã,8.4,93.9,6.8,2,2026-02-03,Ativo,
+A0449,17,Privada,Maceió,AL,2100.29,5,Sim,Sim,Manhã,0.0,0.738,3.1,2,2026-02-24,Evadido,Motivos pessoais
+A0302,17,Privada,Maceió,AL,2654.58,7,Sim,Não,Manhã,11.6,84.6,9.9,0,2026-02-22,Ativo,
+A0297,17,Privada,Palmeira dos Índios,AL,4345.37,4,Sim,Não,Manhã,11.5,79.2,7.4,1,,Ativo,
+A0192,22,Privada,Maceió,AL,1967.72,6,Sim,Não,Tarde,10.9,73.4,8.3,1,2026-02-14,Evadido,Dificuldade financeira
+A0233,25,Privada,União dos Palmares,AL,2675.43,5,Sim,não,Manhã,8.4,84.6,5.5,0,,Ativo,
+A0044,17,Pública,Maceió,AL,1542.48,5,Sim,Não,Tarde,15.5,85.6,8.7,0,2026-03-03,Ativo,
+A0239,19,Pública,União dos Palmares,AL,3162.59,5,Sim,Não,Manhã,4.9,79.0,8.5,1,2026-02-24,Ativo,
+A0307,25,Privada,Rio Largo,AL,1032.96,5,Não,Sim,Noite,4.9,79.6,7.0,0,2026-02-21,Ativo,
+A0184,24,Privada,Palmeira dos Índios,AL,2877.18,5,Sim,Sim,Noite,6.4,20.0,8.1,1,2026-02-21,Ativo,
+A0437,26,Pública,Marechal Deodoro,AL,2588.97,5,Não,Sim,Noite,10.4,76.8,7.9,1,2026-02-05,Ativo,
+A0172,23,Pública,Rio Largo,AL,3162.59,4,Sim,Sim,Manhã,5.2,77.9,7.4,0,2026-03-07,Evadido,Dificuldade acadêmica
+A0445,26,Pública,União dos Palmares,AL,2678.11,4,Sim,Não,Manhã,15.8,82.1,7.1,2,2026-02-07,Ativo,
+A0148,24,Privada,Maceió,AL,1047.43,6,Sim,NAO,Manhã,11.6,71.2,7.0,0,2026-03-07,Ativo,
+A0368,22,Pública,União dos Palmares,AL,5020.45,25,Sim,não,Noite,2.4,20.0,10.0,0,2026-02-19,Ativo,
+A0375,18,Pública,Palmeira dos Índios,AL,5958.78,6,Sim,Sim,Noite,10.9,92.8,7.7,0,2026-02-06,Evadido,Dificuldade acadêmica
+A0305,21,Pública,Arapiraca,AL,5058.69,4,Sim,Não,Tarde,9.5,0.878,7.7,1,,Ativo,
+A0269,21,Privada,Palmeira dos Índios,AL,2162.11,4,Sim,Sim,Noite,4.0,82.3,7.9,0,2026-02-09,Ativo,
+A0303,21,Pública,Maceió,AL,2116.38,4,Sim,Não,Noite,9.1,82.5,8.2,0,2026-02-21,Ativo,
+A0267,32,Pública,Rio Largo,AL,6944.89,2,Não,Sim,Tarde,8.1,89.0,7.1,2,,Ativo,
+A0183,22,Privada,Rio Largo,AL,3162.59,3,Sim,Sim,Manhã,5.3,83.8,7.0,2,2026-02-15,Ativo,
+A0114,24,Pública,Maceió,AL,3370.88,5,Sim,Sim,Manhã,10.2,90.7,6.9,0,2026-03-05,Ativo,
+A0091,20,Pública,Arapiraca,AL,1532.4,4,Sim,Sim,Noite,4.8,76.3,6.2,2,2026-09-03,Ativo,
+A0281,19,Pública,Maceió,AL,2767.6,4,Sim,SIM,Manhã,5.6,84.4,8.3,0,2026-03-08,Ativo,
+A0085,22,Pública,Marechal Deodoro,AL,2047.22,3,Sim,Sim,Manhã,13.6,85.6,7.3,0,2026-02-25,Ativo,
+A0144,24,Pública,Maceió,AL,6997.3,4,Sim,Sim,Manhã,8.4,55.2,7.5,1,2026-02-13,Evadido,Motivos pessoais
+A0268,17,Privada,Arapiraca,AL,1875.29,5,Sim,Não,Tarde,7.7,89.6,7.4,0,2026-03-06,Ativo,
+A0265,17,Privada,Maceió,AL,6791.42,5,Sim,Sim,Tarde,4.4,68.0,7.2,1,2026-02-21,Ativo,
+A0094,17,Pública,Maceió,AL,2951.23,4,Sim,Não,Manhã,3.2,100.0,6.9,0,2026-02-21,Ativo,
+A0012,21,Pública,Rio Largo,AL,2231.0,4,Sim,Não,Manhã,8.5,0.949,5.4,0,2026-02-27,Ativo,
+A0200,22,Pública,Maceió,AL,2891.62,5,Sim,Não,Noite,5.2,88.7,8.4,1,2026-03-06,Ativo,
+A0104,21,Pública,Maceió,AL,2011.79,3,Não,Não,Manhã,10.1,99.9,7.7,0,2026-02-19,Ativo,
+A0421,25,Pública,Maceió,AL,803.93,3,Sim,Sim,Tarde,11.1,0.754,8.3,-1,2026-02-21,Ativo,
+A0328,22,Pública,Maceió,AL,3175.24,4,Sim,Não,Manhã,15.9,89.3,7.9,2,2026-02-08,Ativo,
+A0101,17,Pública,Arapiraca,AL,2655.58,5,Sim,Sim,Noite,10.9,92.8,7.0,1,2026-02-23,Evadido,Mudança de cidade
+A0034,17,Pública,Maceió,AL,3162.59,3,Sim,Não,Noite,7.9,83.8,8.6,0,2026-02-13,Ativo,
+A0455,17,Pública,Arapiraca,AL,2502.09,4,Sim,Sim,Manhã,7.0,84.5,8.0,0,2026-02-28,Ativo,
+A0351,20,Pública,Maceió,AL,4384.36,3,Sim,Não,Manhã,14.4,89.7,9.2,0,2026-02-19,Ativo,
+A0060,21,Pública,Maceió,AL,1977.45,5,Sim,Não,Manhã,10.1,74.3,9.2,0,2026-02-15,Ativo,
+A0261,24,Pública,Maceió,PE,2527.71,5,Sim,Sim,Tarde,9.6,0.602,5.5,2,2026-02-03,Ativo,
+A0232,17,Pública,Rio Largo,AL,4770.84,6,Sim,NAO,Manhã,10.0,87.0,7.9,1,2026-02-18,Evadido,Mudança de cidade
+A0450,17,Pública,Palmeira dos Índios,AL,1535.21,4,Sim,Sim,Noite,8.4,86.4,-2.0,1,2026-02-22,Evadido,Dificuldade financeira
+A0140,17,Pública,Arapiraca,AL,2027.18,6,Sim,Sim,Noite,6.5,73.1,4.8,4,2026-03-01,Evadido,Motivos pessoais
+A0414,22,Pública,Maceió,PE,2998.62,5,Sim,Não,Manhã,15.5,82.7,7.6,1,2026-02-12,Ativo,
+A0124,23,Pública,Maceió,AL,2692.57,3,Sim,Sim,Tarde,6.4,74.7,7.6,0,2026-02-24,Ativo,
+A0023,17,Pública,Maceió,AL,3162.59,5,Não,Não,Tarde,8.3,71.5,7.9,0,2026-03-03,Ativo,
+A0248,21,Pública,Arapiraca,AL,2054.24,5,Sim, yes ,Tarde,13.6,64.8,7.2,1,2026-03-02,Evadido,Dificuldade acadêmica
+A0338,17,Pública,Maceió,AL,1130.51,7,Sim,Não,Noite,10.9,83.5,8.0,0,2026-03-03,Ativo,
+A0128,17,Privada,Maceió,AL,772.95,5,Sim,Não,Noite,8.1,88.4,8.3,0,2026-03-01,Ativo,
+A0107,19,Pública,Arapiraca,AL,888.08,4,Sim,Não,Noite,8.2,85.5,7.1,1,2026-02-14,Ativo,
+A0447,17,Pública,Rio Largo,AL,1418.94,5,Sim,Sim,Manhã,7.3,68.9,7.9,1,2026-03-08,Evadido,Problemas de transporte
+A0435,19,Pública,Palmeira dos Índios,AL,6107.94,4,Sim,Não,Noite,6.6,85.7,6.2,1,2026-02-14,Ativo,
+A0164,17,Pública,Maceió,AL,1348.63,4,Sim,Sim,Manhã,6.8,95.1,4.5,3,,Evadido,Mudança de cidade
+A0264,17,Pública,Arapiraca,AL,3162.59,5,Sim,Não,Manhã,4.2,72.2,8.1,1,2026-02-28,Evadido,Motivos pessoais
+A0386,26,Privada,União dos Palmares,AL,2992.29,5,Sim,Sim,Manhã,7.9,0.758,5.8,1,2026-02-14,Ativo,
+A0082,24,Pública,Maceió,AL,1702.83,3,Sim,não,Noite,5.6,83.6,8.1,1,2026-02-22,Ativo,
+A0080,20,Pública,Maceió,AL,3825.8,5,Sim,Não,Tarde,12.1,0.901,6.6,0,2026-02-06,Ativo,
+A0393,24,Pública,União dos Palmares,AL,8793.22,4,Sim,Não,Noite,13.3,0.797,5.5,1,2026-02-14,Ativo,
+A0403,24,Pública,Maceió,AL,3162.59,5,Sim,Não,Tarde,10.7,62.1,8.9,0,2026-02-15,Evadido,Mudança de cidade
+A0078,23,Pública,Maceió,AL,5183.03,3,Sim,Não,Manhã,12.3,78.1,7.2,0,2026-03-04,Ativo,
+A0174,17,Privada,Maceió,AL,3498.83,4,Sim,Não,Noite,10.8,88.4,7.0,0,2026-03-06,Ativo,
+A0024,17,Pública,Maceió,AL,2010.48,4,Sim,Não,Manhã,6.4,87.5,7.2,0,2026-02-16,Ativo,
+A0362,21,Pública,Rio Largo,AL,3162.59,4,Sim,Não,Noite,4.4,85.3,7.8,0,2026-02-20,Ativo,
+A0171,20,Pública,Maceió,AL,2156.82,4,Sim,Sim,Noite,6.6,74.5,7.7,2,2026-02-11,Evadido,Dificuldade acadêmica
+A0149,23,Pública,Arapiraca,AL,7605.87,2,Sim,Não,Tarde,13.2,80.1,8.8,0,2026-03-07,Ativo,
+A0038,20,Pública,União dos Palmares,AL,3162.59,2,Sim,Sim,Manhã,4.4,78.9,8.1,0,2026-02-20,Ativo,
+A0187,20,Privada,Maceió,AL,2007.01,4,Sim,Sim,Manhã,2.3,81.2,3.9,2,2026-02-10,Ativo,
+A0382,25,Privada,União dos Palmares,AL,3464.45,6,Sim,Sim,Manhã,3.7,82.0,9.0,1,2026-02-14,Matriculado,
+A0137,19,Privada,Maceió,AL,3162.59,5,Sim,Sim,Tarde,16.0,20.0,9.0,0,2026-02-10,Ativo,
+A0325,22,Pública,Maceió,PE,1393.92,4,Sim,Sim,Noite,14.4,84.6,7.4,0,2026-02-20,Ativo,
+A0067,22,Pública,Maceió,AL,2199.25,5,Sim,Sim,Tarde,7.4,85.8,9.3,0,2026-02-20,Ativo,
+A0098,17,Pública,Palmeira dos Índios,AL,2189.29,3,Sim,Sim,Manhã,2.5,76.8,6.0,2,2026-02-17,Ativo,
+A0117,17,Privada,Palmeira dos Índios,AL,4736.81,1,Sim,Não,Manhã,8.4,85.1,7.2,0,2026-03-09,Ativo,
+A0028,22,Pública,Maceió,AL,1977.43,6,Sim,Sim,Noite,3.4,68.5,7.1,1,2026-02-21,Ativo,
+A0011,20,Pública,Maceió,AL,3007.63,2,Sim,Sim,Tarde,5.9,69.2,6.6,2,2026-02-09,Ativo,
+A0131,22,Pública,Maceió,AL,3579.9,4,Sim,Não,Tarde,7.4,73.0,6.2,1,2026-02-17,Ativo,
+A0460,18,Pública,União dos Palmares,AL,4662.21,5,Sim,Não,Noite,9.5,89.0,6.9,1,2026-04-02,Ativo,
+A0288,21,Pública,Maceió,AL,4319.84,4,Sim,Não,Noite,7.3,81.5,8.3,0,2026-02-03,Ativo,
+A0317,22,Pública,Arapiraca,AL,4850.23,4,Não,Não,Manhã,11.3,73.5,7.7,0,2026-02-24,Ativo,
+A0290,17,Pública,Maceió,AL,4334.41,4,Sim,Sim,Manhã,9.4,93.7,8.8,0,2026-02-10,Ativo,
+A0293,18,Pública,Maceió,AL,1802.93,5,Sim,Sim,Tarde,2.3,71.2,7.4,2,2026-08-02,Ativo,
+A0369,18,Pública,Maceió,AL,1486.41,7,Sim,Sim,Noite,4.4,95.9,8.7,0,2026-02-20,Ativo,
+A0223,17,Pública,Maceió,AL,1619.26,5,Não,Não,Noite,6.2,82.2,7.4,2,2026-02-28,Ativo,
+A0046,20,Pública,União dos Palmares,AL,2233.76,3,Sim,Não,Noite,10.4,86.3,6.4,1,2026-02-07,Ativo,
+A0154,17,Pública,Maceió,AL,7660.26,4,Sim,Não,Tarde,16.9,77.7,7.2,2,2026-03-09,Ativo,
+A0394,18,Pública,União dos Palmares,AL,4760.8,3,Sim,Não,Noite,13.1,87.3,8.5,0,2026-02-11,Ativo,
+A0019,22,Privada,Maceió,AL,1826.07,2,Sim,Sim,Tarde,5.8,81.7,1.5,0,2026-02-06,Ativo,
+A0299,27,Pública,Arapiraca,AL,3380.06,7,Não,Sim,Tarde,11.8,20.0,8.4,1,2026-02-20,Evadido,Mudança de cidade
+A0008,17,Pública,Maceió,AL,1681.17,5,Não,0,Manhã,8.0,75.0,5.4,1,2026-02-05,Ativo,
+A0276,18,Pública,Arapiraca,AL,0.0,5,Sim,Não,Manhã,4.2,78.5,9.5,1,2026-02-20,Ativo,
+A0158,22,Privada,Arapiraca,AL,5281.86,4,Sim,Não,Tarde,10.2,78.4,4.8,12,2026-02-02,Ativo,
+A0161,19,Pública,Maceió,AL,3942.05,6,Sim,Sim,Noite,10.1,67.2,6.1,1,2026-02-27,Evadido,Problemas de transporte
+A0278,19,Privada,Maceió,AL,1436.62,7,Sim,Não,Manhã,8.3,78.8,7.6,0,2026-02-02,Ativo,
+A0391,18,Privada,Marechal Deodoro,AL,3162.59,5,Sim,Sim,Manhã,6.2,72.0,8.4,2,2026-02-05,Ativo,
+A0400,19,Pública,Arapiraca,AL,1719.76,4,Sim,Não,Noite,12.6,91.0,7.4,1,2026-03-05,Ativo,
+A0129,23,Privada,Arapiraca,AL,2469.19,3,Sim,Não,Noite,9.5,82.9,9.1,2,2026-02-24,Ativo,
+A0079,22,Pública,Maceió,AL,2450.28,4,Sim,Não,Noite,5.6,92.7,8.4,0,2026-02-28,Ativo,
+A0133,17,Privada,Maceió,AL,6162.73,3,Sim,Não,Manhã,15.1,68.4,6.2,2,2026-03-08,Ativo,
+A0002,21,Pública,União dos Palmares,AL,6463.7,5,Sim,Sim,Manhã,0.0,79.8,7.7,1,2026-02-14,Ativo,
+A0284,20,Privada,Maceió,AL,3476.62,3,Sim,Não,Manhã,10.4,93.6,8.3,0,2026-02-27,Ativo,
+A0064,17,Privada,Arapiraca,AL,3054.87,3,Sim,Sim,Noite,1.3,86.8,5.7,1,2026-03-05,Evadido,Problemas de transporte
+A0319,17,Pública,Maceió,AL,2549.4,6,Sim,Não,Manhã,11.7,82.9,8.4,1,2026-02-10,Ativo,
+A0251,22,Privada,Rio Largo,AL,3176.38,4,Não,Não,Tarde,10.6,88.5,6.9,0,2026-02-23,Ativo,
+A0286,21,Privada,União dos Palmares,AL,2503.85,3,Sim,Sim,Noite,11.8,76.8,7.0,2,2026-02-09,Evadido,Motivos pessoais
+A0150,19,Pública,Maceió,AL,2722.88,2,Sim,Não,Noite,5.6,20.0,7.5,1,2026-02-13,Ativo,
+A0049,24,Privada,Maceió,AL,3162.59,4,Sim,Não,Manhã,10.7,97.4,8.4,0,2026-02-24,Ativo,
+A0221,17,Pública,Palmeira dos Índios,AL,4090.83,5,Não,NAO,Tarde,12.0,88.1,6.3,0,2026-03-03,Ativo,
+A0314,17,Privada,Maceió,AL,2294.58,4,Sim,Não,Manhã,5.2,81.2,6.5,1,2026-02-15,Ativo,
+A0042,20,Pública,Maceió,AL,3019.43,3,Sim,Não,Tarde,9.0,97.9,8.2,1,2026-02-13,Ativo,
+A0152,28,Pública,Marechal Deodoro,AL,3162.59,3,Sim,Sim,Manhã,1.0,89.9,7.8,0,2026-03-02,Ativo,
+A0163,20,Pública,Palmeira dos Índios,AL,1711.99,2,Sim,Sim,Tarde,2.8,96.2,7.5,0,2026-02-25,Ativo,
+A0340,20,Privada,Marechal Deodoro,AL,2099.54,5,Sim,S,Tarde,0.8,78.8,6.5,1,2026-02-07,Ativo,
+A0004,20,Privada,Arapiraca,AL,2251.96,7,Sim,Não,Noite,7.6,71.2,7.7,0,2026-03-07,Ativo,
+A0212,25,Privada,Arapiraca,AL,2677.07,5,Sim,Não,Tarde,7.7,82.8,6.0,0,2026-02-07,Ativo,
+A0412,21,Pública,Maceió,AL,2723.92,1,Sim,Não,Tarde,13.7,82.6,9.3,1,2026-02-26,Evadido,
+A0195,17,Privada,União dos Palmares,AL,2101.05,4,Não,Não,Manhã,0.4,82.7,6.6,0,2026-02-05,Ativo,
+A0427,22,Pública,Maceió,AL,1993.85,7,Sim,Não,Manhã,6.0,84.8,6.6,1,2026-03-09,Ativo,
+A0228,20,Pública,Arapiraca,AL,2609.99,4,Sim,Sim,Noite,7.7,96.4,6.5,2,2026-02-10,Ativo,
+A0005,18,Pública,Maceió,AL,2218.56,1,Sim,Não,Tarde,5.6,85.5,5.8,0,2026-02-16,Ativo,
+A0425,22,Pública,Maceió,AL,1241.12,6,Sim,Sim,Noite,8.6,75.5,7.0,1,2026-02-02,Evadido,Problemas de transporte
+A0285,20,Pública,Maceió,AL,2250.14,3,Não,Sim,Noite,11.2,66.9,5.7,2,2026-02-20,Ativo,
+A0084,22,Pública,Palmeira dos Índios,AL,1616.72,4,Sim, yes ,Manhã,9.3,78.2,7.2,1,2026-02-05,Ativo,
+A0115,20,Pública,Maceió,AL,2232.38,1,Sim,Não,Manhã,6.0,86.1,7.5,2,2026-02-23,Ativo,
+A0086,21,Pública,Maceió,AL,3743.87,1,Sim,Não,Noite,8.5,72.1,7.2,2,2026-02-07,Ativo,
+A0266,23,Privada,Maceió,AL,3162.59,4,Sim,N,Noite,11.6,84.4,7.4,1,2026-02-20,Ativo,
+A0260,17,Pública,Arapiraca,AL,2082.1,6,Sim,sim,Noite,5.3,84.8,7.3,1,2026-02-17,Ativo,
+A0118,24,Pública,Maceió,AL,2369.75,6,Sim,Sim,Tarde,13.1,75.6,6.4,0,2026-03-01,Ativo,
+A0323,22,Pública,Maceió,AL,1497.31,3,Sim,Não,Tarde,6.8,87.1,10.0,0,2026-02-06,Ativo,
+A0289,20,Pública,Maceió,AL,2619.48,3,Sim,Não,Noite,9.3,63.9,5.7,3,2026-02-08,Ativo,
+A0334,24,Privada,Maceió,AL,1144.93,3,Sim,Não,Manhã,8.4,85.3,8.1,2,2026-02-05,Ativo,
+A0409,18,Privada,Rio Largo,AL,1806.99,4,Sim,Sim,Tarde,8.0,81.2,7.2,1,2026-02-14,Ativo,
